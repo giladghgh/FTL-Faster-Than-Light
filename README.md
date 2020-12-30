@@ -6,4 +6,5 @@ The run itself was dicey; I barely made any use of augmentations, an embarrassin
 <br/>
 <br/>
 
+The `.twbx` packaged workbook contains all media and data extract files for your convenience, and I also provide the standard `.twb` file.
 I recommend you download the workbook (if you have [Tableau](https://www.tableau.com/products/trial)) so it runs at an acceptable pace. If you're unsure what something is—despite my best efforts to make it intuitive—just hover the cursor over it and a tooltip will most likely appear :)
